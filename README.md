@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- [isaac](https://github.com/vyppal/) is bad
+ [isaac](https://github.com/vyppal/) is funny chess player
 
 
 <div id="about-me" align="center">
