@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-isaac is bad
+ [isaac](https://github.com/spacey-sooty/) is bad
 
 
 
