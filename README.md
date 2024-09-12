@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
- [isaac](https://github.com/vyppal/) is funny chess player
-
-
 <div id="about-me" align="center">
 <a href="https://git.io/typing-svg%22%3E<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Condensed&weight=750&size=30&duration=5000&pause=3000&color=1890ff&center=true&vCenter=true&width=550&lines=Hello!+This+is+Isaac+Turner!" alt="Typing SVG" /></a>
 </div>
